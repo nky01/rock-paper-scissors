@@ -1,0 +1,52 @@
+body {
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    background-color: rgb(24, 24, 24);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    margin-top: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.move-btn {
+    background-color: rgb(123, 0, 223);
+    border-radius: 50%;
+    border: 2px solid white;
+    margin: 7px;
+}
+.move-btn img {
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    transition: transform 0.15s ease;
+}
+
+.move-btn:hover img {
+    transform: scale(1.2);
+}
+
+.result {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.move {
+    width: 80px;
+    height: 80px;
+}
+
+.btn-reset {
+    padding: 10px 20px;
+    font-size: 17px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
