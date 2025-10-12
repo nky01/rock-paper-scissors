@@ -12,13 +12,8 @@ Play against the AI and see your scores persist across sessions. The possible re
 
 ---
 
-## 🚀 Features
-- **Interactive Gameplay**: Click Rock, Paper, or Scissors to play.  
-- **Dynamic UI**: Updates game results and scores in real-time.  
-- **Persistent Scores**: Scores are saved using `localStorage`.  
-- **Clear Game Logic**: Conditional statements determine Win/Lose/Tie.  
-
----
+## 🚀 Image
+<img width="1161" height="624" alt="image" src="https://github.com/user-attachments/assets/7844add5-9e0d-4bfd-a066-66c534a4d926" />
 
 ## 🎮 How to Play
 1. [Click here](https://rock-paper-scissors-game-js-nk.netlify.app) to play the game online.
