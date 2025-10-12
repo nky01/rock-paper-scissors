@@ -8,7 +8,7 @@ This is a **Rock Paper Scissors** game developed using **JavaScript**, showcasin
 - 🔄 **Functions** – organized and reusable code  
 - 💾 **LocalStorage** – saving player and computer scores  
 
-Play against the computer and see your scores persist across sessions. The possible results are: **You Win**, **You Lose**, **Tie**.
+Play against the AI and see your scores persist across sessions. The possible results are: **You Win**, **You Lose**, **Tie**.
 
 ---
 
