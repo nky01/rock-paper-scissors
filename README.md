@@ -1,35 +1,11 @@
-# Rock Paper Scissors Game 🎮
+### Juego Piedra, Papel o Tijera
 
-## 🎯 Description
-This is a **Rock Paper Scissors** game developed using **JavaScript**, showcasing my skills in:
+Proyecto desarrollado con **JavaScript**, que demuestra el uso de manipulación del **DOM**, lógica condicional, funciones reutilizables y almacenamiento de puntajes mediante **LocalStorage**.
 
-- 🖱️ **DOM Manipulation** – dynamic updates of UI elements  
-- ⚡ **Conditional Logic** – deciding the winner  
-- 🔄 **Functions** – organized and reusable code  
-- 💾 **LocalStorage** – saving player and computer scores  
+El jugador compite contra la computadora, y los resultados posibles son: *You Win*, *You Lose* o *Tie*.
 
-Play against the AI and see your scores persist across sessions. The possible results are: **You Win**, **You Lose**, **Tie**.
-
----
-
-## 🚀 Image
-
-## 🎮 How to Play
-1. [Click here](https://rock-paper-scissors-game-js-nk.netlify.app) to play the game online.
-2. Choose **Rock**, **Paper**, or **Scissors**.  
-3. The AI randomly selects its move.  
-4. View the result: **You Win**, **You Lose**, or **Tie**.  
-5. Scores are updated automatically.
-
----
-
-## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- LocalStorage  
-
----
-
-## Author
-- Developed by Nicole Cayo💻
+### 🎮 Cómo jugar
+1. Ingresá al juego: [Rock Paper Scissors Game](https://rock-paper-scissors-game-js-nk.netlify.app)
+2. Elegí tu jugada (piedra, papel o tijera).
+3. Observá el resultado en pantalla.
+4. Los puntajes se almacenan y actualizan automáticamente.
